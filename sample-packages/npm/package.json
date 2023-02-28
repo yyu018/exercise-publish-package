@@ -1,0 +1,14 @@
+{
+  "name": "@yyu018/exercise-publish-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "@yyu018:registry": "https://npm.pkg.github.com"
+  }
+}
