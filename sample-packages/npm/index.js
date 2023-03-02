@@ -1,1 +1,1 @@
-console.log("hello world - Test Pull Request branch protection rule");
+console.log("hello world - Feature A");
